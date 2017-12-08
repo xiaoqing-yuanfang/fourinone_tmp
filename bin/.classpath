@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="指南和demo/WordCount/|指南和demo/分布式计算完整demo/|指南和demo/分布式文件访问和操作demo/|指南和demo/计算中止demo/|指南和demo/CoolHash数据库demo/|指南和demo/启动多个工人进程demo/|指南和demo/分布式计算上手demo/|指南和demo/本地工人并行计算demo/|指南和demo/统一配置管理demo/|指南和demo/集群管理demo/|指南和demo/MQ demo/|指南和demo/SayHello/|指南和demo/分布式锁demo/|指南和demo/分布式缓存demo/" kind="src" path=""/>
+	<classpathentry kind="src" path="指南和demo/本地工人并行计算demo"/>
+	<classpathentry kind="src" path="指南和demo/分布式缓存demo"/>
+	<classpathentry kind="src" path="指南和demo/分布式计算上手demo"/>
+	<classpathentry kind="src" path="指南和demo/分布式计算完整demo"/>
+	<classpathentry kind="src" path="指南和demo/分布式锁demo"/>
+	<classpathentry kind="src" path="指南和demo/分布式文件访问和操作demo"/>
+	<classpathentry kind="src" path="指南和demo/集群管理demo"/>
+	<classpathentry kind="src" path="指南和demo/计算中止demo"/>
+	<classpathentry kind="src" path="指南和demo/启动多个工人进程demo"/>
+	<classpathentry kind="src" path="指南和demo/统一配置管理demo"/>
+	<classpathentry kind="src" path="指南和demo/CoolHash数据库demo"/>
+	<classpathentry kind="src" path="指南和demo/MQ demo"/>
+	<classpathentry kind="src" path="指南和demo/SayHello"/>
+	<classpathentry kind="src" path="指南和demo/WordCount"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
